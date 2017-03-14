@@ -1,0 +1,7 @@
+DriveIntent Gehe {steps} Schritte nach {direction}
+DriveIntent Fahre {steps} nach {direction}
+DriveIntent {steps} nach {direction}
+
+TurnIntent
+
+UTurnIntent Umdrehen
