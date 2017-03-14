@@ -1,0 +1,14 @@
+{
+  "name": "blechdose",
+  "version": "1.0.0",
+  "description": "A sample Alexa app",
+  "main": "index.js",
+  "author": "George Mamaladze",
+  "license": "MIT",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.5807c43f-2db6-4ae8-a429-27434022e341"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0"
+  }
+}

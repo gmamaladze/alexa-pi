@@ -1,0 +1,24 @@
+{
+  "name": "alexa-pi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^3.2.0",
+    "alexa-home-server": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmamaladze/alexa-pi.git"
+  },
+  "author": "George Mamaladze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmamaladze/alexa-pi/issues"
+  },
+  "homepage": "https://github.com/gmamaladze/alexa-pi#readme"
+}
